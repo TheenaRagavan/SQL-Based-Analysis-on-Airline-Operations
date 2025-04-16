@@ -1,6 +1,6 @@
 📝 Project Description:
 
-This project involves a comprehensive analysis of a real-time Airline database using Structured Query Language (SQL). The objective was to uncover key operational and customer insights through effective data extraction, transformation, and analysis.
+This project involves a comprehensive analysis of a real-time database using Structured Query Language (SQL). The objective was to uncover key operational and customer insights through effective data extraction, transformation, and analysis.
 
 A wide range of advanced SQL techniques were applied—including joins, subqueries, date formatting, CASE statements, aggregations, and window functions—to solve 30 business questions related to flight schedules, passenger behavior, airport operations, and aircraft utilization.
 
